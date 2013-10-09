@@ -4,6 +4,8 @@ require 'matrix'
 # Matrix1 = array.new
 # Matrix2 = array.new
 
+# Creamos las matrices a y b, inicializamos.
+
 a = [[1, 2],[3, 4]]
 b = [[2, 3],[4, 5]]
 
