@@ -6,7 +6,7 @@ require 'matrix'
 
 # Creamos las matrices a y b, inicializamos.
 
-a = [[1, 2],[3, 4]]
+a = [[1, 2],[3, 6]]
 b = [[2, 3],[4, 5]]
 
 c = Array.new # Matriz resultante de la suma
