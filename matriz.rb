@@ -12,8 +12,8 @@ b = [[2, 3],[4, 5]]
 c = Array.new # Matriz resultante de la suma
 d = Array.new # Matriz resultante de la multiplicacion
 
-m = a.size # Numero de filas
-n = a[1].size # Numero de columnas
+m = a.size # Numero de columnas
+n = a[1].size # Numero de filas
 
 # Inicializar la matriz c a 0.
 
